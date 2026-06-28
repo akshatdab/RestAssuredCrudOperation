@@ -104,7 +104,7 @@ public class CRUDOperation {
             System.out.println("Deleted sucess " + s1);
             rs1.then().statusCode(204).log().all();
             //sfvhsbfnskfnwjfks
-            
+
         }
     }
 }
